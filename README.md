@@ -6,7 +6,13 @@ Join us for three days of coding, collaboration, and networking with members and
 
 **Dates:** June 24-26, 2026 (Wednesday to Friday)
 **Time:** 9:00 AM - 5:00 PM daily
-**Venue:** London Institute for Healthcare Engineering (LIHE), King's College London, St Thomas' Campus, 100 Lambeth Palace Road, London SE1 7AR
+**Venue:** Hinduja Lecture Theatre,
+London Institute for Healthcare Engineering (LIHE), 
+King's College London, 
+St Thomas' Campus, 
+100 Lambeth Palace Road, 
+London SE1 7AR
+
 **Registration Fee:** £10 (includes tea, coffee, and lunch for all 3 days)
 
 [**Register on Eventbrite**](https://www.eventbrite.com/placeholder-link)
