@@ -1,6 +1,6 @@
 # BMEIS Hackathon 2026
 
-Join us for three days of coding, collaboration, and networking with members and friends of BMEIS!
+Join us for three days of coding, collaboration, and networking with members BMEIS!
 
 ## Event Details
 
