@@ -17,7 +17,7 @@ London SE1 7AR
 
 [**Register on Eventbrite**](https://www.eventbrite.com/placeholder-link)
 
-**Project Ideas:** Students, post-docs, and PIs are all encouraged to pitch project ideas. Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md).
+**Project Ideas:** Project Ideas: Students, post-docs, and PIs are all encouraged to pitch project ideas. We welcome any code project that you feel is achievable in three days and that solves a known biomedical challenge, using data that is open/you already have access to. Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md). Some starter example projects are included.
 
 ## Provisional Daily Schedule
 
