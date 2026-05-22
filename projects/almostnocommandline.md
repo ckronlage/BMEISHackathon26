@@ -20,7 +20,7 @@ In this project, we would like to make the setup and demo of different research 
 
 The ideal and feasible workflow would be: Install docker, run a single command line statement to pull and run a docker image, then open the exposed web interface and afterwards everything is a GUI.
 
-<img width="600" src="https://github.com/user-attachments/assets/10e2e430-1cd8-4563-a53d-179a32c2f83b" />
+<img width="600" alt="pitch_figure" src="https://github.com/user-attachments/assets/c6ce03f9-9430-4ba1-b0bd-a4068a85d25e" />
 
 
 ## Data
